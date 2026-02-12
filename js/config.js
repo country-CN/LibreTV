@@ -23,8 +23,24 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+        api: 'https://www.fantuan.tv/api.php/provide/vod',
+        name: '饭团影视',
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '影视工厂',
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源',
+        api: 'http://www.ryzyw.com/api.php/provide/vod',
+        name: '如意资源',
+        api: 'https://www.moduzy.net/api.php/provide/vod',
+        name: '魔都资源',
+        api: 'http://tsg.zmdnx.com/api.php/provide/vod',
+        name: '非凡影视',
+        api: 'http://ffzy5.tv/api.php/provide/vod',
+        name: '非凡资源',
+        api: 'https://www.tztqtyn.com/api.php/provide/vod',
+        name: '天涯资源',
+        api: 'https://www.cqbfw.com/pianku/4/',
+        name: '暴风资源',
         adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
